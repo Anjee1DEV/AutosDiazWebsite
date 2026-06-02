@@ -79,7 +79,7 @@ export function HeroShowcase({ cars }: { cars: Car[] }) {
               </span>
             </Link>
             <Link href="/catalogo" className="btn btn-outline btn-lg">
-              Ver catálogo
+              Ver catálogo completo
             </Link>
           </div>
         </div>

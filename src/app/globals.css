@@ -2718,6 +2718,20 @@ body {
   flex-wrap: wrap;
 }
 
+.showcase-ctas .btn-outline {
+  background: rgba(255, 255, 255, 0.88);
+  border-color: rgba(12, 12, 12, 0.22);
+  color: var(--ink);
+  box-shadow: 0 14px 32px -28px rgba(12, 12, 12, 0.55);
+}
+
+.showcase-ctas .btn-outline:hover {
+  background: #fff;
+  border-color: var(--ink);
+  transform: translateY(-2px);
+  box-shadow: 0 20px 38px -30px rgba(12, 12, 12, 0.62);
+}
+
 .stage-shadow {
   position: absolute;
   left: 8%;
